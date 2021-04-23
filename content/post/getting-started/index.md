@@ -25,7 +25,7 @@ featured: false
 image:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/CpkOjOcXdUY)'
   focal_point: ""
-  placement: 2
+  placement: 1
   preview_only: false
 
 authors:
@@ -40,7 +40,7 @@ categories:
 - Demo
 - 教程
 ---
-
+{{< toc hide_on="xl" >}}
 ## Overview
 
 1. The Wowchemy website builder for Hugo, along with its starter templates, is designed for professional creators, educators, and teams/organizations - although it can be used to create any kind of site
